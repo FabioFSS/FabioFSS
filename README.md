@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**FabioFSS/FabioFSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My name is Fabiano Santos, I'm 21 years old and I study computer science in Brazil, currently improving my skills with Python and starting to learn web development.
+<div>
+    <h4>Here's a bit more about me:</h4>
+        <ul style="margin-bottom: 30px;">
+            <li>
+                🔭 I’m currently working on improving my skills with Python and machine learning;
+            </li>
+            <li>
+                🌱 I’m currently starting to learn web development;
+            </li>
+            <li>
+                👯 I’m looking to collaborate on machine learning projects;
+            </li>
+            <li>
+                🕹 I love playing games and coding game stuff;
+            </li>
+            <li>
+                📫 How to reach me: fabio_fss@outlook.com.
+            </li>
+        </ul>
+</div>
