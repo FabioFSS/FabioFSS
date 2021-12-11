@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Fabiano Santos, I'm 21 years old and I study computer science in Brazil, currently improving my skills with Python and starting to learn web development.
+### My name is Fabiano Santos, I'm 21 years old and I study computer science in Brazil, currently improving my skills with Python and Machine Learning.
 <div>
     <h4>Here's a bit more about me:</h4>
         <ul style="margin-bottom: 30px;">
