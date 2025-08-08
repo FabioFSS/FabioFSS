@@ -27,4 +27,5 @@ Currently focused on **Python** and expanding my knowledge in **Machine Learning
 ---
 
 ### 📊 GitHub Stats
-![Fabiano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabioFSS&show_icons=true&theme=radical)
+![Fabiano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabioFSS&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Fabiano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioFSS&theme=dark&show_icons=true&hide_border=true&layout=compact)
